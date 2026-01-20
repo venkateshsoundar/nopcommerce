@@ -1,0 +1,396 @@
+01/19/2026 02:12:23 AM: INFO: **********Test01_admin_login: test_title_verification started**********
+01/19/2026 02:12:23 AM: INFO: **********Navigating to admin page URL**********
+01/19/2026 02:12:24 AM: INFO: **********Verifying the title of the page**********
+01/19/2026 02:12:24 AM: INFO: **********Test Title Verification Passed**********
+01/19/2026 02:12:25 AM: INFO: **********Test02_admin_login: test_validadmin_login started**********
+01/19/2026 02:12:31 AM: INFO: **********Verifying the title of the page**********
+01/19/2026 02:12:31 AM: INFO: **********Test Title Verification Passed**********
+01/19/2026 02:12:32 AM: INFO: **********Test03_admin_login: test_invalidadmin_login started**********
+01/19/2026 10:41:24 AM: INFO: **********Test01_admin_login: test_title_verification started**********
+01/19/2026 10:41:24 AM: INFO: **********Navigating to admin page URL**********
+01/19/2026 10:41:25 AM: INFO: **********Verifying the title of the page**********
+01/19/2026 10:41:25 AM: INFO: **********Test Title Verification Passed**********
+01/19/2026 10:41:26 AM: INFO: **********Test02_admin_login: test_validadmin_login started**********
+01/19/2026 10:41:33 AM: INFO: **********Verifying the title of the page**********
+01/19/2026 10:41:33 AM: INFO: **********Test Title Verification Passed**********
+01/19/2026 10:41:34 AM: INFO: **********Test03_admin_login: test_invalidadmin_login started**********
+01/19/2026 10:55:34 AM: INFO: **********Test01_admin_login: test_title_verification started**********
+01/19/2026 10:55:34 AM: INFO: **********Navigating to admin page URL**********
+01/19/2026 10:55:35 AM: INFO: **********Verifying the title of the page**********
+01/19/2026 10:55:35 AM: INFO: **********Test Title Verification Passed**********
+01/19/2026 10:55:36 AM: INFO: **********Test02_admin_login: test_validadmin_login started**********
+01/19/2026 10:55:42 AM: INFO: **********Verifying the title of the page**********
+01/19/2026 10:55:42 AM: INFO: **********Test Title Verification Passed**********
+01/19/2026 10:55:44 AM: INFO: **********Test03_admin_login: test_invalidadmin_login started**********
+01/19/2026 10:57:37 AM: INFO: **********Test01_admin_login: test_title_verification started**********
+01/19/2026 10:57:37 AM: INFO: **********Navigating to admin page URL**********
+01/19/2026 10:57:37 AM: INFO: **********Verifying the title of the page**********
+01/19/2026 10:57:37 AM: INFO: **********Test Title Verification Passed**********
+01/19/2026 10:57:38 AM: INFO: **********Test02_admin_login: test_validadmin_login started**********
+01/19/2026 10:57:45 AM: INFO: **********Verifying the title of the page**********
+01/19/2026 10:57:45 AM: INFO: **********Test Title Verification Passed**********
+01/19/2026 10:57:46 AM: INFO: **********Test03_admin_login: test_invalidadmin_login started**********
+01/19/2026 11:00:36 AM: INFO: **********Test01_admin_login: test_title_verification started**********
+01/19/2026 11:00:36 AM: INFO: **********Navigating to admin page URL**********
+01/19/2026 11:00:36 AM: INFO: **********Verifying the title of the page**********
+01/19/2026 11:00:36 AM: INFO: **********Test Title Verification Passed**********
+01/19/2026 11:00:38 AM: INFO: **********Test02_admin_login: test_validadmin_login started**********
+01/19/2026 11:00:45 AM: INFO: **********Test03_admin_login: test_invalidadmin_login started**********
+01/19/2026 11:01:14 AM: INFO: **********Test01_admin_login: test_title_verification started**********
+01/19/2026 11:01:14 AM: INFO: **********Navigating to admin page URL**********
+01/19/2026 11:01:15 AM: INFO: **********Verifying the title of the page**********
+01/19/2026 11:01:15 AM: INFO: **********Test Title Verification Passed**********
+01/19/2026 11:01:16 AM: INFO: **********Test02_admin_login: test_validadmin_login started**********
+01/19/2026 11:01:23 AM: INFO: **********Verifying the title of the page**********
+01/19/2026 11:01:23 AM: INFO: **********Test Title Verification Passed**********
+01/19/2026 11:01:25 AM: INFO: **********Test03_admin_login: test_invalidadmin_login started**********
+01/19/2026 11:05:19 AM: INFO: **********Test01_admin_login: test_title_verification started**********
+01/19/2026 11:05:19 AM: INFO: **********Navigating to admin page URL**********
+01/19/2026 11:05:20 AM: INFO: **********Verifying the title of the page**********
+01/19/2026 11:05:20 AM: INFO: **********Test Title Verification Passed**********
+01/19/2026 11:05:21 AM: INFO: **********Test02_admin_login: test_validadmin_login started**********
+01/19/2026 11:05:27 AM: INFO: **********Verifying the title of the page**********
+01/19/2026 11:05:27 AM: INFO: **********Test Title Verification Passed**********
+01/19/2026 11:05:28 AM: INFO: **********Test03_admin_login: test_invalidadmin_login started**********
+01/19/2026 11:10:35 AM: INFO: **********Test01_admin_login: test_title_verification started**********
+01/19/2026 11:10:35 AM: INFO: **********Navigating to admin page URL**********
+01/19/2026 11:10:35 AM: INFO: **********Verifying the title of the page**********
+01/19/2026 11:10:35 AM: INFO: **********Test Title Verification Passed**********
+01/19/2026 11:10:37 AM: INFO: **********Test02_admin_login: test_validadmin_login started**********
+01/19/2026 11:10:44 AM: INFO: **********Verifying the title of the page**********
+01/19/2026 11:10:46 AM: INFO: **********Test03_admin_login: test_invalidadmin_login started**********
+01/19/2026 11:20:39 AM: INFO: **********Test01_admin_login: test_title_verification started**********
+01/19/2026 11:20:39 AM: INFO: **********Navigating to admin page URL**********
+01/19/2026 11:20:39 AM: INFO: **********Verifying the title of the page**********
+01/19/2026 11:20:39 AM: INFO: **********Test Title Verification Passed**********
+01/19/2026 11:20:40 AM: INFO: **********Test02_admin_login: test_validadmin_login started**********
+01/19/2026 11:20:46 AM: INFO: **********Verifying the title of the page**********
+01/19/2026 11:20:46 AM: INFO: **********Test Title Verification Passed**********
+01/19/2026 11:20:48 AM: INFO: **********Test03_admin_login: test_invalidadmin_login started**********
+01/19/2026 11:23:48 AM: INFO: **********Test03_admin_login: test_invalidadmin_login started**********
+01/19/2026 11:23:48 AM: INFO: **********Test02_admin_login: test_validadmin_login started**********
+01/19/2026 11:23:48 AM: INFO: **********Test01_admin_login: test_title_verification started**********
+01/19/2026 11:23:48 AM: INFO: **********Navigating to admin page URL**********
+01/19/2026 11:23:49 AM: INFO: **********Verifying the title of the page**********
+01/19/2026 11:23:49 AM: INFO: **********Test Title Verification Passed**********
+01/19/2026 11:23:55 AM: INFO: **********Verifying the title of the page**********
+01/19/2026 11:23:55 AM: INFO: **********Test Title Verification Passed**********
+01/19/2026 11:26:18 AM: INFO: **********Test02_admin_login: test_validadmin_login started**********
+01/19/2026 11:26:18 AM: INFO: **********Test01_admin_login: test_title_verification started**********
+01/19/2026 11:26:18 AM: INFO: **********Navigating to admin page URL**********
+01/19/2026 11:26:18 AM: INFO: **********Test03_admin_login: test_invalidadmin_login started**********
+01/19/2026 11:26:18 AM: INFO: **********Verifying the title of the page**********
+01/19/2026 11:26:18 AM: INFO: **********Test Title Verification Passed**********
+01/19/2026 11:26:24 AM: INFO: **********Verifying the title of the page**********
+01/19/2026 11:26:24 AM: INFO: **********Test Title Verification Passed**********
+01/19/2026 11:31:18 AM: INFO: **********Test03_admin_login: test_invalidadmin_login started**********
+01/19/2026 11:31:18 AM: INFO: **********Test01_admin_login: test_title_verification started**********
+01/19/2026 11:31:18 AM: INFO: **********Navigating to admin page URL**********
+01/19/2026 11:31:18 AM: INFO: **********Test02_admin_login: test_validadmin_login started**********
+01/19/2026 11:31:19 AM: INFO: **********Verifying the title of the page**********
+01/19/2026 11:31:19 AM: INFO: **********Test Title Verification Passed**********
+01/19/2026 11:31:25 AM: INFO: **********Verifying the title of the page**********
+01/19/2026 11:31:25 AM: INFO: **********Test Title Verification Passed**********
+01/19/2026 11:44:47 AM: INFO: **********Test02_admin_login: test_validadmin_login started**********
+01/19/2026 11:44:47 AM: INFO: **********Test01_admin_login: test_title_verification started**********
+01/19/2026 11:44:47 AM: INFO: **********Navigating to admin page URL**********
+01/19/2026 11:44:47 AM: INFO: **********Test03_admin_login: test_invalidadmin_login started**********
+01/19/2026 11:44:48 AM: INFO: **********Verifying the title of the page**********
+01/19/2026 11:44:48 AM: INFO: **********Test Title Verification Passed**********
+01/19/2026 11:44:54 AM: INFO: **********Verifying the title of the page**********
+01/19/2026 11:44:54 AM: INFO: **********Test Title Verification Passed**********
+01/19/2026 11:50:25 AM: INFO: **********Test03_admin_login: test_invalidadmin_login started**********
+01/19/2026 11:50:25 AM: INFO: **********Test01_admin_login: test_title_verification started**********
+01/19/2026 11:50:25 AM: INFO: **********Navigating to admin page URL**********
+01/19/2026 11:50:25 AM: INFO: **********Test02_admin_login: test_validadmin_login started**********
+01/19/2026 11:50:26 AM: INFO: **********Verifying the title of the page**********
+01/19/2026 11:50:26 AM: INFO: **********Test Title Verification Passed**********
+01/19/2026 11:50:32 AM: INFO: **********Verifying the title of the page**********
+01/19/2026 11:50:32 AM: INFO: **********Test Title Verification Passed**********
+01/19/2026 03:11:56 PM: INFO: **********Test03_admin_login: test_invalidadmin_login started**********
+01/19/2026 03:11:56 PM: INFO: **********Test02_admin_login: test_validadmin_login started**********
+01/19/2026 03:11:56 PM: INFO: **********Test01_admin_login: test_title_verification started**********
+01/19/2026 03:11:56 PM: INFO: **********Navigating to admin page URL**********
+01/19/2026 03:11:57 PM: INFO: **********Verifying the title of the page**********
+01/19/2026 03:11:57 PM: INFO: **********Test Title Verification Passed**********
+01/19/2026 03:12:01 PM: INFO: **********Test_admin_login: test_validadmin_login started**********
+01/19/2026 03:12:04 PM: INFO: **********Verifying the title of the page**********
+01/19/2026 03:12:04 PM: INFO: **********Test Title Verification Passed**********
+01/19/2026 03:14:06 PM: INFO: **********Test_admin_login: test_validadmin_login started**********
+01/19/2026 03:14:32 PM: INFO: **********Test_admin_login: test_validadmin_login started**********
+01/19/2026 03:15:45 PM: INFO: **********Test_admin_login: test_validadmin_login started**********
+01/19/2026 03:16:24 PM: INFO: **********Test_admin_login: test_validadmin_login started**********
+01/19/2026 03:16:30 PM: INFO: **********Verifying the title of the page**********
+01/19/2026 03:16:30 PM: INFO: **********Test Title Verification Passed**********
+01/19/2026 03:17:36 PM: INFO: **********Test_admin_login: test_validadmin_login started**********
+01/19/2026 03:17:46 PM: INFO: **********Verifying the title of the page**********
+01/19/2026 03:17:46 PM: INFO: **********Test Title Verification Passed**********
+01/19/2026 03:22:15 PM: INFO: **********Test_admin_login: test_validadmin_login started**********
+01/19/2026 03:22:21 PM: INFO: **********Verifying the title of the page**********
+01/19/2026 03:22:21 PM: INFO: **********Test Title Verification Passed**********
+01/19/2026 03:25:55 PM: INFO: **********Test_admin_login: test_validadmin_login started**********
+01/19/2026 03:26:01 PM: INFO: **********Verifying the title of the page**********
+01/19/2026 03:26:01 PM: INFO: **********Test Title Verification Passed**********
+01/19/2026 03:34:06 PM: INFO: **********Test_admin_login: test_validadmin_login started**********
+01/19/2026 03:34:12 PM: INFO: **********Verifying the title of the page**********
+01/19/2026 03:34:42 PM: INFO: **********Test_admin_login: test_validadmin_login started**********
+01/19/2026 03:34:48 PM: INFO: **********Verifying the title of the page**********
+01/19/2026 03:34:48 PM: INFO: **********Test Title Verification Passed**********
+01/19/2026 03:37:37 PM: INFO: **********Test_admin_login: test_validadmin_login started**********
+01/19/2026 03:37:44 PM: INFO: **********Verifying the title of the page**********
+01/19/2026 03:37:44 PM: INFO: **********Test Title Verification Passed**********
+01/19/2026 03:37:55 PM: INFO: **********Admin Login Data Driven Test Passed**********
+01/19/2026 03:39:01 PM: INFO: **********Test_admin_login: test_validadmin_login started**********
+01/19/2026 03:39:07 PM: INFO: **********Verifying the title of the page**********
+01/19/2026 03:39:07 PM: INFO: **********Test Title Verification Passed**********
+01/19/2026 03:39:18 PM: INFO: **********Admin Login Data Driven Test Passed**********
+01/19/2026 03:41:35 PM: INFO: **********Test_admin_login: test_validadmin_login started**********
+01/19/2026 03:41:41 PM: INFO: **********Verifying the title of the page**********
+01/19/2026 03:41:41 PM: INFO: **********Test Title Verification Passed**********
+01/19/2026 03:41:52 PM: INFO: **********Admin Login Data Driven Test Passed**********
+01/19/2026 03:42:31 PM: INFO: **********Test_admin_login: test_validadmin_login started**********
+01/19/2026 03:42:38 PM: INFO: **********Verifying the title of the page**********
+01/19/2026 03:42:38 PM: INFO: **********Test Title Verification Passed**********
+01/19/2026 03:42:49 PM: INFO: **********Admin Login Data Driven Test Passed**********
+01/19/2026 05:02:47 PM: INFO: **********Test_Add_New_Customer: test_add_new_customer started**********
+01/19/2026 05:02:47 PM: INFO: **********Opening Admin Page URL**********
+01/19/2026 05:03:51 PM: INFO: **********Test_Add_New_Customer: test_add_new_customer started**********
+01/19/2026 05:03:51 PM: INFO: **********Opening Admin Page URL**********
+01/19/2026 05:04:20 PM: INFO: **********Test_Add_New_Customer: test_add_new_customer started**********
+01/19/2026 05:04:21 PM: INFO: **********Opening Admin Page URL**********
+01/19/2026 05:04:38 PM: INFO: **********Test_Add_New_Customer: test_add_new_customer started**********
+01/19/2026 05:04:38 PM: INFO: **********Opening Admin Page URL**********
+01/19/2026 05:04:39 PM: INFO: **********Admin Logged in Successfully**********
+01/19/2026 05:05:10 PM: INFO: **********Test_Add_New_Customer: test_add_new_customer started**********
+01/19/2026 05:05:10 PM: INFO: **********Opening Admin Page URL**********
+01/19/2026 05:05:11 PM: INFO: **********Admin Logged in Successfully**********
+01/19/2026 05:05:41 PM: INFO: **********Test_Add_New_Customer: test_add_new_customer started**********
+01/19/2026 05:05:42 PM: INFO: **********Opening Admin Page URL**********
+01/19/2026 05:05:43 PM: INFO: **********Admin Logged in Successfully**********
+01/19/2026 05:06:14 PM: INFO: **********Test_Add_New_Customer: test_add_new_customer started**********
+01/19/2026 05:06:15 PM: INFO: **********Opening Admin Page URL**********
+01/19/2026 05:06:16 PM: INFO: **********Admin Logged in Successfully**********
+01/19/2026 05:15:05 PM: INFO: **********Test_Add_New_Customer: test_add_new_customer started**********
+01/19/2026 05:15:05 PM: INFO: **********Opening Admin Page URL**********
+01/19/2026 05:15:06 PM: INFO: **********Admin Logged in Successfully**********
+01/19/2026 06:13:46 PM: INFO: **********Test_Add_New_Customer: test_add_new_customer started**********
+01/19/2026 06:13:46 PM: INFO: **********Opening Admin Page URL**********
+01/19/2026 06:13:47 PM: INFO: **********Admin Logged in Successfully**********
+01/19/2026 06:18:21 PM: INFO: **********Test_Add_New_Customer: test_add_new_customer started**********
+01/19/2026 06:18:21 PM: INFO: **********Opening Admin Page URL**********
+01/19/2026 06:18:23 PM: INFO: **********Admin Logged in Successfully**********
+01/19/2026 06:19:20 PM: INFO: **********Test_Add_New_Customer: test_add_new_customer started**********
+01/19/2026 06:19:23 PM: INFO: **********Opening Admin Page URL**********
+01/19/2026 06:19:23 PM: INFO: **********Admin Logged in Successfully**********
+01/19/2026 06:20:09 PM: INFO: **********Test_Add_New_Customer: test_add_new_customer started**********
+01/19/2026 06:20:09 PM: INFO: **********Opening Admin Page URL**********
+01/19/2026 06:20:42 PM: INFO: **********Test_Add_New_Customer: test_add_new_customer started**********
+01/19/2026 06:20:43 PM: INFO: **********Opening Admin Page URL**********
+01/19/2026 06:20:49 PM: INFO: **********Admin Logged in Successfully**********
+01/19/2026 06:24:08 PM: INFO: **********Test_Add_New_Customer: test_add_new_customer started**********
+01/19/2026 06:24:09 PM: INFO: **********Opening Admin Page URL**********
+01/19/2026 06:24:15 PM: INFO: **********Admin Logged in Successfully**********
+01/19/2026 06:24:16 PM: INFO: **********Adding New Customer Details**********
+01/19/2026 06:26:14 PM: INFO: **********Test_Add_New_Customer: test_add_new_customer started**********
+01/19/2026 06:26:15 PM: INFO: **********Opening Admin Page URL**********
+01/19/2026 06:26:20 PM: INFO: **********Admin Logged in Successfully**********
+01/19/2026 06:26:23 PM: INFO: **********Adding New Customer Details**********
+01/19/2026 06:27:40 PM: INFO: **********Test_Add_New_Customer: test_add_new_customer started**********
+01/19/2026 06:27:41 PM: INFO: **********Opening Admin Page URL**********
+01/19/2026 06:27:47 PM: INFO: **********Admin Logged in Successfully**********
+01/19/2026 06:27:58 PM: INFO: **********Adding New Customer Details**********
+01/19/2026 06:29:16 PM: INFO: **********Test_Add_New_Customer: test_add_new_customer started**********
+01/19/2026 06:29:17 PM: INFO: **********Opening Admin Page URL**********
+01/19/2026 06:29:22 PM: INFO: **********Admin Logged in Successfully**********
+01/19/2026 06:29:31 PM: INFO: **********Adding New Customer Details**********
+01/19/2026 06:29:38 PM: INFO: **********Saving New Customer Details**********
+01/19/2026 06:29:39 PM: ERROR: **********Test_Add_New_Customer: test_add_new_customer Failed**********
+01/19/2026 06:30:29 PM: INFO: **********Test_Add_New_Customer: test_add_new_customer started**********
+01/19/2026 06:30:29 PM: INFO: **********Opening Admin Page URL**********
+01/19/2026 06:30:35 PM: INFO: **********Admin Logged in Successfully**********
+01/19/2026 06:30:38 PM: INFO: **********Adding New Customer Details**********
+01/19/2026 06:30:45 PM: INFO: **********Saving New Customer Details**********
+01/19/2026 06:30:45 PM: INFO: **********Test_Add_New_Customer: test_add_new_customer Passed**********
+01/19/2026 06:30:45 PM: INFO: **********Test_Add_New_Customer: test_add_new_customer ended**********
+01/19/2026 08:29:49 PM: INFO: **********Test_Add_New_Customer: test_add_new_customer started**********
+01/19/2026 08:29:50 PM: INFO: **********Opening Admin Page URL**********
+01/19/2026 08:29:55 PM: INFO: **********Admin Logged in Successfully**********
+01/19/2026 08:29:57 PM: INFO: **********Adding New Customer Details**********
+01/19/2026 08:30:03 PM: INFO: **********Saving New Customer Details**********
+01/19/2026 08:30:03 PM: INFO: **********Test_Add_New_Customer: test_add_new_customer Passed**********
+01/19/2026 08:30:03 PM: INFO: **********Test_Add_New_Customer: test_add_new_customer ended**********
+01/19/2026 09:07:47 PM: INFO: **********Test_Search_Customers: test_search_customer_by_email started**********
+01/19/2026 09:07:48 PM: INFO: **********Opening Admin Page URL**********
+01/19/2026 09:07:53 PM: INFO: **********Admin Logged in Successfully**********
+01/19/2026 09:07:54 PM: INFO: **********Searching Customer by Email ID**********
+01/19/2026 09:07:59 PM: INFO: **********Test_Search_Customers: test_search_customer_by_email Passed**********
+01/19/2026 09:08:00 PM: INFO: **********Test_Search_Customers: test_search_customer_by_firstname started**********
+01/19/2026 09:08:01 PM: INFO: **********Opening Admin Page URL**********
+01/19/2026 09:08:06 PM: INFO: **********Admin Logged in Successfully**********
+01/19/2026 09:08:07 PM: INFO: **********Searching Customer by First Name**********
+01/19/2026 09:08:13 PM: INFO: **********Test_Search_Customers: test_search_customer_by_firstname Passed**********
+01/19/2026 09:08:13 PM: INFO: **********Test_Search_Customers: test_search_customer_by_lastname started**********
+01/19/2026 09:08:14 PM: INFO: **********Opening Admin Page URL**********
+01/19/2026 09:08:20 PM: INFO: **********Admin Logged in Successfully**********
+01/19/2026 09:08:20 PM: INFO: **********Searching Customer by Last Name**********
+01/19/2026 09:08:26 PM: INFO: **********Test_Search_Customers: test_search_customer_by_lastname Passed**********
+01/19/2026 09:08:27 PM: INFO: **********Test_Search_Customers: test_search_customer_by_companyname started**********
+01/19/2026 09:08:27 PM: INFO: **********Opening Admin Page URL**********
+01/19/2026 09:08:33 PM: INFO: **********Admin Logged in Successfully**********
+01/19/2026 09:08:58 PM: INFO: **********Searching Customer by Company Name**********
+01/19/2026 09:10:51 PM: INFO: **********Test_Search_Customers: test_search_customer_by_email started**********
+01/19/2026 09:10:52 PM: INFO: **********Opening Admin Page URL**********
+01/19/2026 09:10:57 PM: INFO: **********Admin Logged in Successfully**********
+01/19/2026 09:10:58 PM: INFO: **********Searching Customer by Email ID**********
+01/19/2026 09:11:03 PM: INFO: **********Test_Search_Customers: test_search_customer_by_email Passed**********
+01/19/2026 09:11:05 PM: INFO: **********Test_Search_Customers: test_search_customer_by_firstname started**********
+01/19/2026 09:11:05 PM: INFO: **********Opening Admin Page URL**********
+01/19/2026 09:11:11 PM: INFO: **********Admin Logged in Successfully**********
+01/19/2026 09:11:12 PM: INFO: **********Searching Customer by First Name**********
+01/19/2026 09:11:17 PM: INFO: **********Test_Search_Customers: test_search_customer_by_firstname Passed**********
+01/19/2026 09:11:19 PM: INFO: **********Test_Search_Customers: test_search_customer_by_lastname started**********
+01/19/2026 09:11:19 PM: INFO: **********Opening Admin Page URL**********
+01/19/2026 09:11:25 PM: INFO: **********Admin Logged in Successfully**********
+01/19/2026 09:11:25 PM: INFO: **********Searching Customer by Last Name**********
+01/19/2026 09:11:31 PM: INFO: **********Test_Search_Customers: test_search_customer_by_lastname Passed**********
+01/19/2026 09:11:32 PM: INFO: **********Test_Search_Customers: test_search_customer_by_companyname started**********
+01/19/2026 09:11:33 PM: INFO: **********Opening Admin Page URL**********
+01/19/2026 09:11:38 PM: INFO: **********Admin Logged in Successfully**********
+01/19/2026 09:11:39 PM: INFO: **********Searching Customer by Company Name**********
+01/19/2026 09:13:10 PM: INFO: **********Test_Search_Customers: test_search_customer_by_email started**********
+01/19/2026 09:13:10 PM: INFO: **********Opening Admin Page URL**********
+01/19/2026 09:13:16 PM: INFO: **********Admin Logged in Successfully**********
+01/19/2026 09:13:19 PM: INFO: **********Searching Customer by Email ID**********
+01/19/2026 09:13:25 PM: INFO: **********Test_Search_Customers: test_search_customer_by_email Passed**********
+01/19/2026 09:13:26 PM: INFO: **********Test_Search_Customers: test_search_customer_by_firstname started**********
+01/19/2026 09:13:27 PM: INFO: **********Test_Search_Customers: test_search_customer_by_lastname started**********
+01/19/2026 09:13:27 PM: INFO: **********Opening Admin Page URL**********
+01/19/2026 09:13:28 PM: INFO: **********Test_Search_Customers: test_search_customer_by_companyname started**********
+01/19/2026 09:13:28 PM: INFO: **********Opening Admin Page URL**********
+01/19/2026 09:14:58 PM: INFO: **********Test_Search_Customers: test_search_customer_by_email started**********
+01/19/2026 09:14:59 PM: INFO: **********Opening Admin Page URL**********
+01/19/2026 09:15:04 PM: INFO: **********Admin Logged in Successfully**********
+01/19/2026 09:15:05 PM: INFO: **********Searching Customer by Email ID**********
+01/19/2026 09:15:10 PM: INFO: **********Test_Search_Customers: test_search_customer_by_email Passed**********
+01/19/2026 09:15:12 PM: INFO: **********Test_Search_Customers: test_search_customer_by_firstname started**********
+01/19/2026 09:15:13 PM: INFO: **********Test_Search_Customers: test_search_customer_by_lastname started**********
+01/19/2026 09:15:13 PM: INFO: **********Opening Admin Page URL**********
+01/19/2026 09:15:14 PM: INFO: **********Test_Search_Customers: test_search_customer_by_companyname started**********
+01/19/2026 09:15:14 PM: INFO: **********Opening Admin Page URL**********
+01/19/2026 09:40:41 PM: INFO: **********Test_Search_Customers: test_search_customer_by_email started**********
+01/19/2026 09:40:45 PM: INFO: **********Opening Admin Page URL**********
+01/19/2026 09:40:51 PM: INFO: **********Admin Logged in Successfully**********
+01/19/2026 09:40:56 PM: INFO: **********Searching Customer by Email ID**********
+01/19/2026 09:41:02 PM: INFO: **********Test_Search_Customers: test_search_customer_by_email Passed**********
+01/19/2026 09:41:06 PM: INFO: **********Test_Search_Customers: test_search_customer_by_firstname started**********
+01/19/2026 09:41:07 PM: INFO: **********Opening Admin Page URL**********
+01/19/2026 09:41:12 PM: INFO: **********Admin Logged in Successfully**********
+01/19/2026 09:41:13 PM: INFO: **********Searching Customer by First Name**********
+01/19/2026 09:41:18 PM: INFO: **********Test_Search_Customers: test_search_customer_by_firstname Passed**********
+01/19/2026 09:41:22 PM: INFO: **********Test_Search_Customers: test_search_customer_by_lastname started**********
+01/19/2026 09:41:22 PM: INFO: **********Opening Admin Page URL**********
+01/19/2026 09:41:28 PM: INFO: **********Admin Logged in Successfully**********
+01/19/2026 09:41:29 PM: INFO: **********Searching Customer by Last Name**********
+01/19/2026 09:41:34 PM: INFO: **********Test_Search_Customers: test_search_customer_by_lastname Passed**********
+01/19/2026 09:41:38 PM: INFO: **********Test_Search_Customers: test_search_customer_by_companyname started**********
+01/19/2026 09:41:39 PM: INFO: **********Opening Admin Page URL**********
+01/19/2026 09:41:45 PM: INFO: **********Admin Logged in Successfully**********
+01/19/2026 09:41:45 PM: INFO: **********Searching Customer by Company Name**********
+01/19/2026 09:52:25 PM: INFO: **********Test_Search_Customers: test_search_customer_by_email started**********
+01/19/2026 09:52:25 PM: INFO: **********Opening Admin Page URL**********
+01/19/2026 09:52:31 PM: INFO: **********Admin Logged in Successfully**********
+01/19/2026 09:52:31 PM: INFO: **********Searching Customer by Email ID**********
+01/19/2026 09:52:37 PM: INFO: **********Test_Search_Customers: test_search_customer_by_email Passed**********
+01/19/2026 09:52:41 PM: INFO: **********Test_Search_Customers: test_search_customer_by_firstname started**********
+01/19/2026 09:52:41 PM: INFO: **********Opening Admin Page URL**********
+01/19/2026 09:52:46 PM: INFO: **********Admin Logged in Successfully**********
+01/19/2026 09:52:47 PM: INFO: **********Searching Customer by First Name**********
+01/19/2026 09:52:53 PM: INFO: **********Test_Search_Customers: test_search_customer_by_firstname Passed**********
+01/19/2026 09:52:57 PM: INFO: **********Test_Search_Customers: test_search_customer_by_lastname started**********
+01/19/2026 09:52:57 PM: INFO: **********Opening Admin Page URL**********
+01/19/2026 09:53:02 PM: INFO: **********Admin Logged in Successfully**********
+01/19/2026 09:53:03 PM: INFO: **********Searching Customer by Last Name**********
+01/19/2026 09:53:08 PM: INFO: **********Test_Search_Customers: test_search_customer_by_lastname Passed**********
+01/19/2026 09:53:12 PM: INFO: **********Test_Search_Customers: test_search_customer_by_companyname started**********
+01/19/2026 09:53:13 PM: INFO: **********Opening Admin Page URL**********
+01/19/2026 09:53:18 PM: INFO: **********Admin Logged in Successfully**********
+01/19/2026 09:53:22 PM: INFO: **********Searching Customer by Company Name**********
+01/19/2026 09:53:28 PM: INFO: **********Test_Search_Customers: test_search_customer_by_companyname Passed**********
+01/19/2026 10:38:04 PM: INFO: **********Test_Add_New_Customer: test_add_new_customer started**********
+01/19/2026 10:38:04 PM: INFO: **********Opening Admin Page URL**********
+01/19/2026 10:38:10 PM: INFO: **********Admin Logged in Successfully**********
+01/19/2026 10:38:11 PM: INFO: **********Adding New Customer Details**********
+01/19/2026 10:38:18 PM: INFO: **********Saving New Customer Details**********
+01/19/2026 10:38:18 PM: INFO: **********Test_Add_New_Customer: test_add_new_customer Passed**********
+01/19/2026 10:38:18 PM: INFO: **********Test_Add_New_Customer: test_add_new_customer ended**********
+01/19/2026 10:38:19 PM: INFO: **********Test02_admin_login: test_validadmin_login started**********
+01/19/2026 10:38:25 PM: INFO: **********Verifying the title of the page**********
+01/19/2026 10:38:25 PM: INFO: **********Test Title Verification Passed**********
+01/19/2026 10:38:26 PM: INFO: **********Test_Search_Customers: test_search_customer_by_email started**********
+01/19/2026 10:38:26 PM: INFO: **********Opening Admin Page URL**********
+01/19/2026 10:38:32 PM: INFO: **********Admin Logged in Successfully**********
+01/19/2026 10:38:32 PM: INFO: **********Searching Customer by Email ID**********
+01/19/2026 10:38:38 PM: INFO: **********Test_Search_Customers: test_search_customer_by_email Passed**********
+01/19/2026 10:38:58 PM: INFO: **********Test_Add_New_Customer: test_add_new_customer started**********
+01/19/2026 10:38:58 PM: INFO: **********Opening Admin Page URL**********
+01/19/2026 10:39:04 PM: INFO: **********Admin Logged in Successfully**********
+01/19/2026 10:39:15 PM: INFO: **********Adding New Customer Details**********
+01/19/2026 10:39:21 PM: INFO: **********Saving New Customer Details**********
+01/19/2026 10:39:21 PM: INFO: **********Test_Add_New_Customer: test_add_new_customer Passed**********
+01/19/2026 10:39:21 PM: INFO: **********Test_Add_New_Customer: test_add_new_customer ended**********
+01/19/2026 10:39:22 PM: INFO: **********Test01_admin_login: test_title_verification started**********
+01/19/2026 10:39:22 PM: INFO: **********Navigating to admin page URL**********
+01/19/2026 10:39:23 PM: INFO: **********Verifying the title of the page**********
+01/19/2026 10:39:23 PM: INFO: **********Test Title Verification Passed**********
+01/19/2026 10:39:23 PM: INFO: **********Test02_admin_login: test_validadmin_login started**********
+01/19/2026 10:39:30 PM: INFO: **********Verifying the title of the page**********
+01/19/2026 10:39:30 PM: INFO: **********Test Title Verification Passed**********
+01/19/2026 10:39:30 PM: INFO: **********Test03_admin_login: test_invalidadmin_login started**********
+01/19/2026 10:39:38 PM: INFO: **********Test_Search_Customers: test_search_customer_by_email started**********
+01/19/2026 10:39:38 PM: INFO: **********Opening Admin Page URL**********
+01/19/2026 10:39:44 PM: INFO: **********Admin Logged in Successfully**********
+01/19/2026 10:39:44 PM: INFO: **********Searching Customer by Email ID**********
+01/19/2026 10:39:50 PM: INFO: **********Test_Search_Customers: test_search_customer_by_email Passed**********
+01/19/2026 10:39:53 PM: INFO: **********Test_Search_Customers: test_search_customer_by_firstname started**********
+01/19/2026 10:39:54 PM: INFO: **********Opening Admin Page URL**********
+01/19/2026 10:40:00 PM: INFO: **********Admin Logged in Successfully**********
+01/19/2026 10:40:01 PM: INFO: **********Searching Customer by First Name**********
+01/19/2026 10:40:06 PM: INFO: **********Test_Search_Customers: test_search_customer_by_firstname Passed**********
+01/19/2026 10:40:10 PM: INFO: **********Test_Search_Customers: test_search_customer_by_lastname started**********
+01/19/2026 10:40:10 PM: INFO: **********Opening Admin Page URL**********
+01/19/2026 10:40:16 PM: INFO: **********Admin Logged in Successfully**********
+01/19/2026 10:40:17 PM: INFO: **********Searching Customer by Last Name**********
+01/19/2026 10:40:22 PM: INFO: **********Test_Search_Customers: test_search_customer_by_lastname Passed**********
+01/19/2026 10:40:26 PM: INFO: **********Test_Search_Customers: test_search_customer_by_companyname started**********
+01/19/2026 10:40:27 PM: INFO: **********Opening Admin Page URL**********
+01/19/2026 10:40:33 PM: INFO: **********Admin Logged in Successfully**********
+01/19/2026 10:40:34 PM: INFO: **********Searching Customer by Company Name**********
+01/19/2026 10:57:15 PM: INFO: **********Test_Add_New_Customer: test_add_new_customer started**********
+01/19/2026 10:57:15 PM: INFO: **********Opening Admin Page URL**********
+01/19/2026 10:57:21 PM: INFO: **********Admin Logged in Successfully**********
+01/19/2026 10:57:22 PM: INFO: **********Adding New Customer Details**********
+01/19/2026 10:57:29 PM: INFO: **********Saving New Customer Details**********
+01/19/2026 10:57:29 PM: INFO: **********Test_Add_New_Customer: test_add_new_customer Passed**********
+01/19/2026 10:57:29 PM: INFO: **********Test_Add_New_Customer: test_add_new_customer ended**********
+01/19/2026 10:57:30 PM: INFO: **********Test02_admin_login: test_validadmin_login started**********
+01/19/2026 10:57:37 PM: INFO: **********Verifying the title of the page**********
+01/19/2026 10:57:38 PM: INFO: **********Test_Search_Customers: test_search_customer_by_email started**********
+01/19/2026 10:57:39 PM: INFO: **********Opening Admin Page URL**********
+01/19/2026 10:57:45 PM: INFO: **********Admin Logged in Successfully**********
+01/19/2026 10:57:46 PM: INFO: **********Searching Customer by Email ID**********
+01/19/2026 10:57:51 PM: INFO: **********Test_Search_Customers: test_search_customer_by_email Passed**********
+01/19/2026 11:04:35 PM: INFO: **********Test_Add_New_Customer: test_add_new_customer started**********
+01/19/2026 11:04:35 PM: INFO: **********Opening Admin Page URL**********
+01/19/2026 11:04:41 PM: INFO: **********Admin Logged in Successfully**********
+01/19/2026 11:04:42 PM: INFO: **********Adding New Customer Details**********
+01/19/2026 11:04:49 PM: INFO: **********Saving New Customer Details**********
+01/19/2026 11:04:49 PM: INFO: **********Test_Add_New_Customer: test_add_new_customer Passed**********
+01/19/2026 11:04:49 PM: INFO: **********Test_Add_New_Customer: test_add_new_customer ended**********
+01/19/2026 11:04:49 PM: INFO: **********Test02_admin_login: test_validadmin_login started**********
+01/19/2026 11:04:56 PM: INFO: **********Verifying the title of the page**********
+01/19/2026 11:04:56 PM: INFO: **********Test Title Verification Passed**********
+01/19/2026 11:04:57 PM: INFO: **********Test_Search_Customers: test_search_customer_by_email started**********
+01/19/2026 11:04:57 PM: INFO: **********Opening Admin Page URL**********
+01/19/2026 11:05:03 PM: INFO: **********Admin Logged in Successfully**********
+01/19/2026 11:05:03 PM: INFO: **********Searching Customer by Email ID**********
+01/19/2026 11:05:09 PM: INFO: **********Test_Search_Customers: test_search_customer_by_email Passed**********
