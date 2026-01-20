@@ -9,7 +9,7 @@ if not exist "reports" mkdir reports
 
 REM Create virtual environment
 if not exist "venv\Scripts\python.exe" (
-    py -m venv venv
+    python -m venv venv
 )
 
 REM Install dependencies
